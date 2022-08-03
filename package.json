@@ -1,0 +1,29 @@
+{
+    "name": "@hatech/cli",
+    "version": "1.0.3",
+    "description": "同创前端CLI程序",
+    "main": "./bin/index.js",
+    "bin": {
+        "hatech": "bin/index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://10.27.2.26:8888/hatech-web/hatech-web-cli.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "wuhao",
+        "email": "wuhaowh@hatech.com.cn"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "commander": "^6.1.0",
+        "concurrently": "^5.3.0",
+        "inquirer": "^7.3.3",
+        "shelljs": "^0.8.4"
+    }
+}

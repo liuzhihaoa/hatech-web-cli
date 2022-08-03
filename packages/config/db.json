@@ -1,0 +1,48 @@
+{
+    "templateGits": [{
+            "name": "Vue项目组件，集成Vue、Vue-Router、Vuex、HTTP请求、ElementUI、主题切换等",
+            "type": "vueproject",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-template-vueproject.git"
+        },
+        {
+            "name": "微前端主应用项目，集成qiankun，应用间通信等功能",
+            "type": "micro_main_project",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-template-project-micro-main.git"
+        },
+        {
+            "name": "微前端子应用项目，集成qiankun，应用间通信等功能",
+            "type": "micro_sub_project",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-template-project-micro-sub.git"
+        },
+        {
+            "name": "微前端istorm one主应用项目，集成qiankun，应用间通信等功能",
+            "type": "istorm-one-main-template-ui",
+            "url": "http://10.27.2.26:8888/istorm-one-ui/istorm-one-main-template-ui.git"
+        },
+        {
+            "name": "微前端istorm one子应用项目，集成qiankun，应用间通信等功能",
+            "type": "istorm-one-app-ui",
+            "url": "http://10.27.2.26:8888/istorm-one-ui/istorm-one-app-ui.git"
+        },
+        {
+            "name": "组件模板，集成组件生命周期事件发射，props标准等",
+            "type": "component",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-template-component.git"
+        },
+        {
+            "name": "布局模板，集成基本头、侧边栏等布局要素",
+            "type": "layout",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-template-layout.git"
+        },
+        {
+            "name": "主题模板，集成基本主题样式包编辑模板",
+            "type": "theme",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-template-theme.git"
+        },
+        {
+            "name": "Mocker服务器，支持HTTP请求",
+            "type": "mocker",
+            "url": "http://10.27.2.26:8888/hatech-web/hatech-web-mocker.git"
+        }
+    ]
+}
